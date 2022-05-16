@@ -1,1 +1,1 @@
-# .github
+# Who we are
