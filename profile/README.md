@@ -25,7 +25,7 @@ We bridge the gap between standard IT tools and complex DevOps code — giving I
 
 | Product | Description |
 | --- | --- |
-| **Image Management** | Multi-cloud machine image automation with Packer — deploy to VMware, Nutanix, AWS, Azure, and GCP |
+| **Image Management** | Multi-cloud machine image automation — deploy to VMware, Nutanix, AWS, Azure, and GCP |
 | **Application Management** | PSADT-based software packaging with no coding required — standardized, versioned, documented |
 | **Platform Management** | Terraform-driven provisioning and workflow automation for hybrid cloud and on-premises environments |
 | **Configuration Management** | PowerShell DSC configurations for Windows system compliance across all environments |
