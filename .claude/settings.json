@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "WebSearch",
+      "Bash(git config:*)",
+      "Bash(git log:*)"
+    ]
+  }
+}
